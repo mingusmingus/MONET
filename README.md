@@ -1,15 +1,15 @@
-# 🎨 MONET - Tú Mente Proyectada en Lienzo! 🎨  
+# MONET
 
-Bienvenido a **MONET**, la inteligencia artificial que convierte tus sentimientos en obras de arte.  
-¿Alguna vez has sentido emociones que no puedes expresar con palabras? **MONET** traduce tus pensamientos, ya sea en texto o voz, en arte visual inspirado en grandes maestros como Monet, Van Gogh y Seurat.  
+**MONET**, la inteligencia artificial que se empeña en transformar tus emociones en obras de arte.  
+Este proyecto nació por de aburrimiento y un sincero amor por el arte, sin olvidar una reciente obsesión por la téclonogía. 
+Inspiración pura de grandes del impresionismo como Monet, Van Gogh y Seurat porque es lo que está de moda. 
 
 ## ¿Qué hace MONET?  
-🔹 **Detecta tus emociones** 🧠💬 a partir de texto o audio.  
-🔹 **Genera arte único** 🎭 basado en cómo te sientes.  
-🔹 **Elige entre múltiples estilos artísticos** 🖼️ para personalizar tu experiencia.  
-🔹 **Ofrece una interfaz intuitiva** 💻 para que cualquiera pueda usarlo fácilmente.  
-🔹 **Funciona en tiempo real** ⏳ para una experiencia fluida e inmediata.  
+🔹 **Detecta tus emociones** a partir de texto o audio.  
+🔹 **Genera arte único** basado en tu estado de ánimo.  
+🔹 **Elige entre múltiples estilos artísticos** para que pruebes diferente estilos de pintura "Monet, Van Gogh y Seurat". 
 
-**¡Descubre el arte de tus emociones con MONET!**  
+Solo tienes que hacer una copia (o agarrar el código) y correrlo en Google Colab, fácil!
+Es un proycto de código abierto, asi que puedes hacer con el lo que se te de la gana!
 
 ![MONETBanner_sinfondo](https://github.com/user-attachments/assets/37880aa5-2838-46b6-94f6-9c13125346a1)
